@@ -6,23 +6,29 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Times New Roman", Helvetica, sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
+	
 }
 
+
+body {
+	background-color: #FFB6C1;
+	}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #F8C8DC;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #ffffff;
+
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #ffffff;
 }
 
 /* Styles for lists in the document */
@@ -49,3 +55,15 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.dotted {
+	border: dotted #FF05C5; 
+} 
+
+.text-shadow1 {text-shadow: 1px 1px #ffffff;
+}
+
+.text-color1{ color: #002D73; 
+	
+}
+
